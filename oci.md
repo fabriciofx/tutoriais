@@ -1,4 +1,4 @@
-# Oracle Cloud
+# Oracle Cloud Infrastructure (OCI)
 
 **Instance** é uma máquina virtual da Oracle Cloud Infrastructure (OCI).
 
